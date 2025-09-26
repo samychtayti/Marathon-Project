@@ -91,14 +91,14 @@ Ce projet est à la fois :
 
 ## 📈 Visualisations clés
 
-1. **Comparaison réel vs prédit**
-   ![réel vs prédit](images/real_vs_pred.png)
+1. **Comparaison réel vs prédit (GradientBoosting)**
+   ![réel vs prédit](images/GBR_reel_vs_pred.png)
 
 2. **Erreur absolue par marathon**
    ![erreur par marathon](images/errors_per_marathon.png)
 
-3. **Importance des variables**
-   ![importances](images/feature_importance.png)
+3. **Importance des variables (GradientBoosting)**
+   ![importances](images/GBR_imp_var.png)
 
 ---
 
