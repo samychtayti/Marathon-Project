@@ -121,7 +121,7 @@ Ce projet est à la fois :
 ## 🚀 Limites & perspectives
 
 * **Dataset personnel (n=5)** → faible généralisation
-* **Pas de cas de défaillance majeure** (mur, blessure, météo extrême)
+* **Pas de cas de défaillance majeure** (mur, blessure, météo extrême) et, ici, **chaque marathon est meilleur que le précédent**
 * Fonctionne comme un prédicteur “normal” mais pas “imprévisible”
 
 **Améliorations possibles :**
