@@ -7,7 +7,7 @@ Prédire mes performances marathon à partir de mes données Strava (6 derniers 
 Ce projet est à la fois :
 
 * Un **exercice de formation personnelle** en Data Science & Machine Learning appliqués au sport.
-* Un **MVP** montrant comment les données d’entraînement peuvent être exploitées pour estimer (et à terme optimiser) la performance en course sur route.
+* Un début de **MVP** montrant comment les données d’entraînement peuvent être exploitées pour estimer (et à terme optimiser) la performance en course sur route.
 
 ---
 
