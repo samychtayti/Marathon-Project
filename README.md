@@ -94,10 +94,13 @@ Ce projet est à la fois :
 1. **Comparaison réel vs prédit (GradientBoosting)**
    ![réel vs prédit](images/GBR_reel_vs_pred.png)
 
-2. **Erreur absolue par marathon**
-   ![erreur par marathon](images/errors_per_marathon.png)
+2. **Erreur absolue moyenne par modèle**
+   ![erreur par modèle](images//MAE comp.png)
+   
+3. **R² par modèle**
+   ![R² par modèle](images/R² comp.png)
 
-3. **Importance des variables (GradientBoosting)**
+4. **Importance des variables (GradientBoosting)**
    ![importances](images/GBR_imp_var.png)
 
 ---
