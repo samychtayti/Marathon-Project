@@ -113,8 +113,8 @@ Ce projet est à la fois :
   * Intensité (`suffer_score_moy`),
   * Vitesse moyenne (`allure_moy`),
   * Expérience cumulative (`km_life`).
-* Les erreurs viennent des cas atypiques (1er marathon) → **non prévisibles** uniquement via l’entraînement.
-* Projet = bon exemple de ce que le ML peut (et ne peut pas) faire en sport.
+* Les erreurs viennent des cas atypiques (1er marathon) → **non prévisibles** uniquement via l’entraînement : pas de stratégie de pacing ou d'objectif chrono.
+* Projet = Manque de précision dans les données utilisées, avec uniquement de l'agrégation.
 
 ---
 
