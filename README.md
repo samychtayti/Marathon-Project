@@ -95,10 +95,10 @@ Ce projet est à la fois :
    ![réel vs prédit](images/GBR_reel_vs_pred.png)
 
 2. **Erreur absolue moyenne par modèle**
-   ![erreur par modèle](images//MAE comp.png)
+   ![erreur par modèle](images//MAE_comp.png)
    
 3. **R² par modèle**
-   ![R² par modèle](images/R² comp.png)
+   ![R² par modèle](images/R_comp.png)
 
 4. **Importance des variables (GradientBoosting)**
    ![importances](images/GBR_imp_var.png)
