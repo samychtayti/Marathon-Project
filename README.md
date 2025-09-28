@@ -124,7 +124,7 @@ Ce projet est à la fois :
 * **Pas de cas de défaillance majeure** (mur, blessure, météo extrême) et, ici, **chaque marathon est meilleur que le précédent**
 * Fonctionne comme un prédicteur “normal” mais pas “imprévisible”
 
-**Améliorations possibles :**
+**Améliorations à venir :**
 
 * Enrichissement avec **streams Strava** (variabilité allure, zones de FC, régularité pacing)
 * Intégration **météo & profil de parcours**
