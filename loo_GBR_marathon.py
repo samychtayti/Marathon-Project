@@ -11,7 +11,7 @@ from datetime import timedelta
 import matplotlib.pyplot as plt
 
 # Charger le dataset
-df = pd.read_csv("C:/Users/SamyC/AppData/Local/Programs/Python_lea/strava/marathons_features.csv")
+df = pd.read_csv("marathons_csv")
 
 # Cible : temps marathon (en secondes)
 y = df["perf_sec"]
@@ -90,4 +90,5 @@ plt.xlabel("Importance")
 plt.title("Importance des variables (Gradient Boosting)")
 plt.gca().invert_yaxis()  # Pour afficher la variable la plus importante en haut
 plt.tight_layout()
+
 plt.show()
