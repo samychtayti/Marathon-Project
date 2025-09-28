@@ -17,11 +17,11 @@ Ce projet est à la fois :
 .
 ├── strava_auth.py            # Authentification + refresh token Strava
 ├── strava_fetch.py           # Récupération des activités via API Strava
-├── convert_df.py             # Filtre les données et les enregistre en csv
+├── convert_df.py             # Filtre les données et les enregistre en CSV
 ├── build_marathon_dataset.py # Feature engineering (6 mois avant chaque marathon)
 ├── multi_mod.py              # Comparaison multi-modèles avec Leave-One-Out
 ├── loo_GBR_marathon.py       # Analyse détaillée GradientBoosting (baseline)
-├── data/                     # Données dérivées (CSV anonymisés)
+├── data/                     # Données dérivées (CSV)
 ├── images/                   # Graphiques pour le README
 └── README.md                 # Ce document
 ```
