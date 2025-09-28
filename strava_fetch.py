@@ -3,7 +3,7 @@ import os
 import json
 import time
 import pandas as pd
-ACCESS_TOKEN =  "f185a2d9690e189ad6d66471fa9cf8cd6fc10eb4"
+ACCESS_TOKEN =  "token"
 # Paramètres
 per_page = 200  # nombre d'activités à récupérer
 page = 1
@@ -59,4 +59,5 @@ df_runs = pd.DataFrame(all_runs_data)
 print(df_runs.shape)        # Nombre de lignes et colonnes
 print(df_runs.head())       # Aperçu des premières lignes
 print(df_runs.columns)      # Liste des colonnes disponibles
+
     
